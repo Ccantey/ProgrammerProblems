@@ -14,10 +14,12 @@ encrypted message = [H, e, o, i, d]
                     [i, r, d, t, 0]
                     [s, y, o, o, 0]
 
+# Create a program that takes a user input, screens it for special characters, strips the spaces then encodes the message
+# using this square methodology
+
 #get valid user input
 import re
 import math
-import pprint
 
 while True:
     try:
