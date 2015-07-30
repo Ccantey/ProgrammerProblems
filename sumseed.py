@@ -1,5 +1,5 @@
 # A number x is a sum seed of y if the sum of x and x's digits equal y.
-# For example 115: 98 + 9 + 8 = 115, therefore 98 is a sum seed of 115, so is 107: 107 + 1 + 0 + 7 =115
+# For example 115: 98 + 9 + 8 = 115, therefore 98 is a sum seed of 115, so is 107: 107 + 1 + 0 + 7 = 115
 
 # Create a script that determines if a user defined, positive integer has any sumseeds.
 # It should also catch invalid input
