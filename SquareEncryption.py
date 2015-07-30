@@ -46,7 +46,7 @@ print
 #initialize matrix
 Matrix = [[0 for x in range(dimensions)] for x in range(dimensions)]
 
-#Magis happens here:
+#Magic happens here:
 for y in xrange(dimensions):    
     for x in xrange(dimensions):
         for z in xrange(dimensions):
