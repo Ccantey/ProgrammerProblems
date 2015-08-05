@@ -1,4 +1,4 @@
-# A fairly simple way to encrypt a mesage is to strip all spaces and special characters from the message,
+# A fairly simple way to encrypt a message is to strip all spaces and special characters from the message,
 # and split the message into a 2-dimensional array, then transpose the array. example:
 
 # message = "How is everyone doing today"
